@@ -17,5 +17,5 @@ def author
   @author
 end 
 
-def 
+def page_count
 end
