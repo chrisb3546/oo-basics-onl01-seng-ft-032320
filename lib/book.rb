@@ -14,7 +14,7 @@ def author=(author)
   @author = author
 end 
 def author
-  @auhtor
+  @author
 end 
 
 end
